@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\controllers\\menuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\services\\categories\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\services\\categories\\categoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\services\\menus\\menusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\services\\menus\\menusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\services\\menus\\imenusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\services\\menus\\imenusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\services\\categories\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\services\\categories\\icategoriesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\models\\database\\tchstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\models\\database\\tchstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\models\\database\\itchstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\models\\database\\itchstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\api_mongodb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\api_mongodb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|g:\\hk2\\asp.net core 6\\api_mongodb\\api_mongodb\\api_mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E752213D-4EB0-4650-BA6F-9FA48DFAACF9}|API_MongoDB\\API_MongoDB.csproj|solutionrelative:api_mongodb\\api_mongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 156,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Controllers\\CategoriesController.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "API_MongoDB\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:06:18.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesService.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Categories\\CategoriesService.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Services\\Categories\\CategoriesService.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Categories\\CategoriesService.cs",
+              "RelativeToolTip": "API_MongoDB\\Services\\Categories\\CategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:01:37.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Models\\Category.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Category.cs",
+              "RelativeToolTip": "API_MongoDB\\Models\\Category.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:53:44.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoriesService.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Categories\\ICategoriesService.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Services\\Categories\\ICategoriesService.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Categories\\ICategoriesService.cs",
+              "RelativeToolTip": "API_MongoDB\\Services\\Categories\\ICategoriesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:53:15.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API_MongoDB",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\API_MongoDB.csproj",
+              "RelativeDocumentMoniker": "API_MongoDB\\API_MongoDB.csproj",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\API_MongoDB.csproj",
+              "RelativeToolTip": "API_MongoDB\\API_MongoDB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T05:05:50.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Program.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Program.cs",
+              "RelativeToolTip": "API_MongoDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T03:05:51.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TCHStoreDatabaseSettings.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Database\\TCHStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Models\\Database\\TCHStoreDatabaseSettings.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Database\\TCHStoreDatabaseSettings.cs",
+              "RelativeToolTip": "API_MongoDB\\Models\\Database\\TCHStoreDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:37:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITCHStoreDatabaseSettings.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Database\\ITCHStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Models\\Database\\ITCHStoreDatabaseSettings.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Database\\ITCHStoreDatabaseSettings.cs",
+              "RelativeToolTip": "API_MongoDB\\Models\\Database\\ITCHStoreDatabaseSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:36:04.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_MongoDB\\Properties\\launchSettings.json",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_MongoDB\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T02:25:44.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenusService.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Menus\\MenusService.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Services\\Menus\\MenusService.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Menus\\MenusService.cs",
+              "RelativeToolTip": "API_MongoDB\\Services\\Menus\\MenusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:25:26.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMenusService.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Menus\\IMenusService.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Services\\Menus\\IMenusService.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Services\\Menus\\IMenusService.cs",
+              "RelativeToolTip": "API_MongoDB\\Services\\Menus\\IMenusService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:24:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Models\\Menu.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Models\\Menu.cs",
+              "RelativeToolTip": "API_MongoDB\\Models\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:22:57.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "API_MongoDB.csproj",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\API_MongoDB.csproj",
+              "RelativeDocumentMoniker": "API_MongoDB\\API_MongoDB.csproj",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\API_MongoDB.csproj",
+              "RelativeToolTip": "API_MongoDB\\API_MongoDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T02:22:25.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "API_MongoDB\\appsettings.json",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\appsettings.json",
+              "RelativeToolTip": "API_MongoDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T02:22:06.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenusController.cs",
+              "DocumentMoniker": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Controllers\\MenusController.cs",
+              "RelativeDocumentMoniker": "API_MongoDB\\Controllers\\MenusController.cs",
+              "ToolTip": "G:\\HK2\\ASP.NET Core 6\\API_MongoDB\\API_MongoDB\\Controllers\\MenusController.cs",
+              "RelativeToolTip": "API_MongoDB\\Controllers\\MenusController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwBsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T02:21:47.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
